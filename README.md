@@ -4,7 +4,8 @@ This tool is designed to log changes made to your PostgreSQL databases and provi
 ## Features
 Change Logging: The tool logs all changes made to the structure of your PostgreSQL database. Data Logging is not part of this.
 
-## Revert Statements: For every change logged, the tool generates a corresponding revert statement. This allows you to easily undo any changes if necessary.
+## Revert Statements 
+For every change logged, the tool generates a corresponding revert statement. This allows you to easily undo any changes if necessary.
 
 ## Usage
 To use this tool, run the createSQLMigrationLog.sql script on your PostgreSQL database.
