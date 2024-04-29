@@ -8,7 +8,7 @@ Change Logging: The tool logs all changes made to the structure of your PostgreS
 For every change logged, the tool generates a corresponding revert statement. This allows you to easily undo any changes if necessary.
 
 ### Usage
-To use this tool, run the createSQLMigrationLog.sql script on your PostgreSQL database. Then you can find the log in the ddl_log table.
+To use this tool, run the createSqlDataSTructureChangeLog.sql script on your PostgreSQL database. Then you can find the log in the ddl_log table.
 
 ### Note
 This tool is specifically designed for PostgreSQL databases. It will not work with other types of databases.
