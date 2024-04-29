@@ -1,4 +1,4 @@
-# Database Change Logger for PostgreSQL
+# Database Structure Change Logger for PostgreSQL
 This tool is designed to log changes made to your PostgreSQL databases and provide revert statements in markup. It's an essential utility for managing database migrations and ensuring data integrity.
 
 ### Features
